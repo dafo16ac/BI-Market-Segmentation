@@ -1,8 +1,9 @@
 *.csv
 .ipynb_checkpoints/
 Part2_DS_Market_Segmentation_v1.0.ipynb
-Part3_DS_Market_Segmentation_v1.0.ipynb
-sc_dumpster_v1.ipynb
+Part 3 - Working.ipynb
+sc_dumpster_v2.ipynb
 img/
 literature/
 *.py
+.idea/
